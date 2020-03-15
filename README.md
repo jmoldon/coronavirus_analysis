@@ -318,7 +318,8 @@ Most of the regions have almost completed the cycle and active cases are disappe
 The number of confirmed cases and deaths is very high in countries like Italy, Spain and France. Note high rate of deaths, much higher than in , which is still in very exponential stage with some signs of flattening.
 
 In general, more days will be needed for a more accurate fit and prediction, but we are still in a high-growth phase.  
-2020-03-15: Italy seems to start showing a flattening of the Death curve, finally!
+2020-03-15: Italy seems to start showing a flattening of the Death curve, finally!  
+
 2020-03-15: Spain shows a weird behaviour in the early Confirmed cases. For all countries, the first data points are below the fitted curve, but Spain is the other way, and there seems to be a change in the rate of new cases on about March 07. Something happened a week before to cause this significant change?
 
 
@@ -381,16 +382,4 @@ The number of days with cases is still very low, and the fits are not very infor
 
 
 ![png](README_files/README_27_0.png)
-
-
-
-![png](README_files/README_28_0.png)
-
-
-
-![png](README_files/README_29_0.png)
-
-
-
-![png](README_files/README_30_0.png)
 
