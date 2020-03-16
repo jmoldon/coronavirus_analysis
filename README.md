@@ -43,51 +43,57 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
   <tbody>
     <tr>
       <th>China</th>
-      <td>67790</td>
-      <td>3075</td>
-      <td>52960</td>
+      <td>67794</td>
+      <td>3085</td>
+      <td>54288</td>
     </tr>
     <tr>
       <th>Italy</th>
-      <td>21157</td>
-      <td>1441</td>
-      <td>1966</td>
+      <td>24747</td>
+      <td>1809</td>
+      <td>2335</td>
     </tr>
     <tr>
       <th>Iran</th>
-      <td>12729</td>
-      <td>611</td>
-      <td>2959</td>
+      <td>13938</td>
+      <td>724</td>
+      <td>4590</td>
     </tr>
     <tr>
       <th>Korea, South</th>
-      <td>8086</td>
-      <td>72</td>
+      <td>8162</td>
+      <td>75</td>
       <td>510</td>
     </tr>
     <tr>
       <th>Spain</th>
-      <td>6391</td>
-      <td>195</td>
+      <td>7798</td>
+      <td>289</td>
       <td>517</td>
     </tr>
     <tr>
       <th>Germany</th>
-      <td>4585</td>
-      <td>9</td>
+      <td>5795</td>
+      <td>11</td>
       <td>46</td>
     </tr>
     <tr>
       <th>France</th>
-      <td>4469</td>
+      <td>4499</td>
       <td>91</td>
       <td>12</td>
     </tr>
     <tr>
       <th>Switzerland</th>
-      <td>1359</td>
-      <td>13</td>
+      <td>2200</td>
+      <td>14</td>
       <td>4</td>
+    </tr>
+    <tr>
+      <th>Norway</th>
+      <td>1221</td>
+      <td>3</td>
+      <td>1</td>
     </tr>
     <tr>
       <th>United Kingdom</th>
@@ -96,40 +102,34 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
       <td>18</td>
     </tr>
     <tr>
-      <th>Norway</th>
-      <td>1090</td>
+      <th>Netherlands</th>
+      <td>1135</td>
+      <td>20</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>Sweden</th>
+      <td>1022</td>
       <td>3</td>
       <td>1</td>
     </tr>
     <tr>
-      <th>Sweden</th>
-      <td>961</td>
-      <td>2</td>
+      <th>Belgium</th>
+      <td>886</td>
+      <td>4</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <th>Netherlands</th>
-      <td>959</td>
-      <td>12</td>
-      <td>2</td>
     </tr>
     <tr>
       <th>Denmark</th>
-      <td>827</td>
-      <td>1</td>
+      <td>864</td>
+      <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <th>Japan</th>
-      <td>773</td>
-      <td>22</td>
-      <td>118</td>
-    </tr>
-    <tr>
-      <th>Cruise Ship</th>
-      <td>706</td>
-      <td>7</td>
-      <td>325</td>
+      <th>Austria</th>
+      <td>860</td>
+      <td>1</td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
@@ -177,51 +177,58 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
     <tr>
       <th>China</th>
       <th>Hubei</th>
-      <td>67790</td>
-      <td>3075</td>
-      <td>52960</td>
+      <td>67794</td>
+      <td>3085</td>
+      <td>54288</td>
     </tr>
     <tr>
       <th>Italy</th>
       <th></th>
-      <td>21157</td>
-      <td>1441</td>
-      <td>1966</td>
+      <td>24747</td>
+      <td>1809</td>
+      <td>2335</td>
     </tr>
     <tr>
       <th>Iran</th>
       <th></th>
-      <td>12729</td>
-      <td>611</td>
-      <td>2959</td>
+      <td>13938</td>
+      <td>724</td>
+      <td>4590</td>
     </tr>
     <tr>
       <th>Spain</th>
       <th></th>
-      <td>6391</td>
-      <td>195</td>
+      <td>7798</td>
+      <td>289</td>
       <td>517</td>
     </tr>
     <tr>
       <th>France</th>
       <th>France</th>
-      <td>4469</td>
+      <td>4499</td>
       <td>91</td>
       <td>12</td>
     </tr>
     <tr>
       <th>Korea, South</th>
       <th></th>
-      <td>8086</td>
-      <td>72</td>
+      <td>8162</td>
+      <td>75</td>
       <td>510</td>
     </tr>
     <tr>
       <th>US</th>
       <th>Washington</th>
-      <td>572</td>
-      <td>37</td>
+      <td>643</td>
+      <td>40</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <th>Japan</th>
+      <th></th>
+      <td>839</td>
+      <td>22</td>
+      <td>118</td>
     </tr>
     <tr>
       <th>China</th>
@@ -231,18 +238,18 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
       <td>1250</td>
     </tr>
     <tr>
-      <th>Japan</th>
-      <th></th>
-      <td>773</td>
-      <td>22</td>
-      <td>118</td>
-    </tr>
-    <tr>
       <th>United Kingdom</th>
       <th>United Kingdom</th>
       <td>1140</td>
       <td>21</td>
       <td>18</td>
+    </tr>
+    <tr>
+      <th>Netherlands</th>
+      <th></th>
+      <td>1135</td>
+      <td>20</td>
+      <td>2</td>
     </tr>
     <tr>
       <th>US</th>
@@ -254,8 +261,8 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
     <tr>
       <th>Switzerland</th>
       <th></th>
-      <td>1359</td>
-      <td>13</td>
+      <td>2200</td>
+      <td>14</td>
       <td>4</td>
     </tr>
     <tr>
@@ -263,21 +270,14 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
       <th>Heilongjiang</th>
       <td>482</td>
       <td>13</td>
-      <td>447</td>
+      <td>453</td>
     </tr>
     <tr>
-      <th>Netherlands</th>
+      <th>Germany</th>
       <th></th>
-      <td>959</td>
-      <td>12</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <th>Iraq</th>
-      <th></th>
-      <td>110</td>
-      <td>10</td>
-      <td>26</td>
+      <td>5795</td>
+      <td>11</td>
+      <td>46</td>
     </tr>
   </tbody>
 </table>
@@ -344,6 +344,10 @@ In general, more days will be needed for a more accurate fit and prediction, but
 
 
 ![png](README_files/README_20_5.png)
+
+
+
+![png](README_files/README_20_6.png)
 
 
 ## Other countries in Asia
