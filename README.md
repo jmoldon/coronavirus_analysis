@@ -8,10 +8,18 @@ The latest report can be found in different formats here:
 - html https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
 - pdf https://jmoldon.github.io/coronavirus_analysis/cvid_report.pdf
 
+# Some sample plots
+
+### Individual countries
 ![](plots/Spain.png)
 ![](plots/Italy.png)
 ![](plots/FranceFrance.png)
 ![](plots/Germany.png)
+
+### Response comparison China vs the rest
+
+![](plots/most_deaths_evolution.png)
+![](plots/most_confirmed_evolution.png)
 
 # Changelog
 
