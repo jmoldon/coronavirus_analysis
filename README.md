@@ -7,6 +7,9 @@ The latest report can be found in different formats here:
 - pdf https://jmoldon.github.io/coronavirus_analysis/cvid_report.pdf
 
 ![](plots/Spain.png)
+![](plots/Italy.png)
+![](plots/France.png)
+![](plots/Germany.png)
 
 # Changelog
 
