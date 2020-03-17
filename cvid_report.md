@@ -386,41 +386,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >25</th>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >11306</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >513</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >831</td>
+                        <th id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >25</th>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >13785</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >513</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >831</td>
             </tr>
             <tr>
-                        <th id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >26</th>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >12563</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >722</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >1113</td>
+                        <th id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >26</th>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >18330</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >722</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >1113</td>
             </tr>
             <tr>
-                        <th id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >27</th>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >13538</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >1017</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >1491</td>
+                        <th id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >27</th>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >24374</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >1017</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >1491</td>
             </tr>
             <tr>
-                        <th id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >28</th>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >14253</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >1432</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >1998</td>
+                        <th id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >28</th>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >32410</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >1432</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >1998</td>
             </tr>
             <tr>
-                        <th id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >29</th>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >14758</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >2016</td>
-                        <td id="T_e5f682d0_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >2676</td>
+                        <th id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >29</th>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >43095</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >2016</td>
+                        <td id="T_b62ab56c_684e_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >2676</td>
             </tr>
     </tbody></table>
 
@@ -439,41 +439,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >25</th>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >31803</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >2446</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >3391</td>
+                        <th id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >25</th>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >31803</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >2446</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >3391</td>
             </tr>
             <tr>
-                        <th id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >26</th>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >35570</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >2746</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >4127</td>
+                        <th id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >26</th>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >35570</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >2746</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >4127</td>
             </tr>
             <tr>
-                        <th id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >27</th>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >39279</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >3020</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >5023</td>
+                        <th id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >27</th>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >39279</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >3020</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >5023</td>
             </tr>
             <tr>
-                        <th id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >28</th>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >42841</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >3261</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >6113</td>
+                        <th id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >28</th>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >42841</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >3261</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >6113</td>
             </tr>
             <tr>
-                        <th id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >29</th>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >46182</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >3466</td>
-                        <td id="T_e6d87f00_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >7439</td>
+                        <th id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >29</th>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >46182</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >3466</td>
+                        <td id="T_2c19adc4_684e_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >7439</td>
             </tr>
     </tbody></table>
 
@@ -492,41 +492,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >31</th>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >7738</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >175</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >12</td>
+                        <th id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >24</th>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >8107</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >182</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >14</td>
             </tr>
             <tr>
-                        <th id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >32</th>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >9307</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >216</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >12</td>
+                        <th id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >25</th>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >10171</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >234</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >14</td>
             </tr>
             <tr>
-                        <th id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >33</th>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >11050</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >263</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >12</td>
+                        <th id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >26</th>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >12759</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >301</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >14</td>
             </tr>
             <tr>
-                        <th id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >34</th>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >12935</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >316</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >12</td>
+                        <th id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >27</th>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >16006</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >387</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >15</td>
             </tr>
             <tr>
-                        <th id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >35</th>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >14914</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >373</td>
-                        <td id="T_e7ba6fd2_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >12</td>
+                        <th id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >28</th>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >20080</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >498</td>
+                        <td id="T_f3f9a1b4_684e_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >15</td>
             </tr>
     </tbody></table>
 
@@ -545,41 +545,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >24</th>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >9371</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >22</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >57</td>
+                        <th id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >24</th>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >9621</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >24</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >57</td>
             </tr>
             <tr>
-                        <th id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >25</th>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >11832</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >28</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >62</td>
+                        <th id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >25</th>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >12499</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >35</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >62</td>
             </tr>
             <tr>
-                        <th id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >26</th>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >14771</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >35</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >69</td>
+                        <th id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >26</th>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >16240</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >50</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >69</td>
             </tr>
             <tr>
-                        <th id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >27</th>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >18196</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >41</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >75</td>
+                        <th id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >27</th>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >21099</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >71</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >75</td>
             </tr>
             <tr>
-                        <th id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >28</th>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >22072</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >46</td>
-                        <td id="T_e891572c_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >83</td>
+                        <th id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >28</th>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >27413</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >102</td>
+                        <td id="T_1f5703a6_684f_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >83</td>
             </tr>
     </tbody></table>
 
@@ -598,41 +598,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >24</th>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >2014</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >82</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >23</td>
+                        <th id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >24</th>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >2014</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >82</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >23</td>
             </tr>
             <tr>
-                        <th id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >25</th>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >2535</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >124</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >24</td>
+                        <th id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >25</th>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >2535</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >124</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >24</td>
             </tr>
             <tr>
-                        <th id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >26</th>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >3190</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >187</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >26</td>
+                        <th id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >26</th>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >3190</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >187</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >26</td>
             </tr>
             <tr>
-                        <th id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >27</th>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >4014</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >282</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >27</td>
+                        <th id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >27</th>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >4014</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >282</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >27</td>
             </tr>
             <tr>
-                        <th id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >28</th>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >5051</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >425</td>
-                        <td id="T_e97ae838_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >29</td>
+                        <th id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >28</th>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >5051</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >425</td>
+                        <td id="T_2feed212_684e_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >29</td>
             </tr>
     </tbody></table>
 
@@ -651,41 +651,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >24</th>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >1194</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >10</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >nan</td>
+                        <th id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >24</th>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >1194</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >10</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >25</th>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >1245</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >17</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >nan</td>
+                        <th id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >25</th>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >1245</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >17</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >26</th>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >1280</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >30</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >nan</td>
+                        <th id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >26</th>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >1280</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >30</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >27</th>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >1305</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >52</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >nan</td>
+                        <th id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >27</th>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >1305</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >52</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >28</th>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >1321</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >89</td>
-                        <td id="T_ea55c264_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >nan</td>
+                        <th id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >28</th>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >1321</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >89</td>
+                        <td id="T_4666e722_684f_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >nan</td>
             </tr>
     </tbody></table>
 
@@ -704,41 +704,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >24</th>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >1595</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >34</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >nan</td>
+                        <th id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >24</th>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >1816</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >34</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >25</th>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >1799</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >46</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >nan</td>
+                        <th id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >25</th>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >2274</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >46</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >26</th>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >1987</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >63</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >nan</td>
+                        <th id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >26</th>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >2848</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >63</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >27</th>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >2154</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >86</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >nan</td>
+                        <th id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >27</th>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >3566</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >86</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >28</th>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >2297</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >117</td>
-                        <td id="T_eb40e9c4_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >nan</td>
+                        <th id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >28</th>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >4465</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >117</td>
+                        <td id="T_4f186b34_684f_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >nan</td>
             </tr>
     </tbody></table>
 
@@ -757,41 +757,41 @@ All plots have the same information. Left: log scale, right: linear scale. Botto
 
 
 <style  type="text/css" >
-</style><table id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >24</th>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >247</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >6</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >nan</td>
+                        <th id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >24</th>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >247</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >6</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >25</th>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >344</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >9</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >nan</td>
+                        <th id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >25</th>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >344</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >9</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >26</th>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >479</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >13</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >nan</td>
+                        <th id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >26</th>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >479</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >13</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >27</th>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >667</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >18</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >nan</td>
+                        <th id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >27</th>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >667</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >18</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >nan</td>
             </tr>
             <tr>
-                        <th id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >28</th>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >929</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >27</td>
-                        <td id="T_ec199ce2_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >nan</td>
+                        <th id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >28</th>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >929</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >27</td>
+                        <td id="T_337306a6_684e_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >nan</td>
             </tr>
     </tbody></table>
 
@@ -813,41 +813,41 @@ I use the combined data for all the states combined
 
 
 <style  type="text/css" >
-</style><table id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bb" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
+</style><table id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Date (end of)</th>        <th class="col_heading level0 col1" >Confirmed</th>        <th class="col_heading level0 col2" >Deaths</th>        <th class="col_heading level0 col3" >Recovered</th>    </tr></thead><tbody>
                 <tr>
-                        <th id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bblevel0_row0" class="row_heading level0 row0" >21</th>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow0_col1" class="data row0 col1" >6058</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow0_col2" class="data row0 col2" >98</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow0_col3" class="data row0 col3" >14</td>
+                        <th id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5level0_row0" class="row_heading level0 row0" >21</th>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row0_col0" class="data row0 col0" >Tuesday 17 March 2020</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row0_col1" class="data row0 col1" >6058</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row0_col2" class="data row0 col2" >98</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row0_col3" class="data row0 col3" >14</td>
             </tr>
             <tr>
-                        <th id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bblevel0_row1" class="row_heading level0 row1" >22</th>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow1_col1" class="data row1 col1" >7909</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow1_col2" class="data row1 col2" >118</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow1_col3" class="data row1 col3" >15</td>
+                        <th id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5level0_row1" class="row_heading level0 row1" >22</th>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row1_col0" class="data row1 col0" >Wednesday 18 March 2020</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row1_col1" class="data row1 col1" >7909</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row1_col2" class="data row1 col2" >118</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row1_col3" class="data row1 col3" >15</td>
             </tr>
             <tr>
-                        <th id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bblevel0_row2" class="row_heading level0 row2" >23</th>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow2_col1" class="data row2 col1" >10326</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow2_col2" class="data row2 col2" >142</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow2_col3" class="data row2 col3" >15</td>
+                        <th id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5level0_row2" class="row_heading level0 row2" >23</th>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row2_col0" class="data row2 col0" >Thursday 19 March 2020</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row2_col1" class="data row2 col1" >10326</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row2_col2" class="data row2 col2" >142</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row2_col3" class="data row2 col3" >15</td>
             </tr>
             <tr>
-                        <th id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bblevel0_row3" class="row_heading level0 row3" >24</th>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow3_col0" class="data row3 col0" >Friday 20 March 2020</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow3_col1" class="data row3 col1" >13480</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow3_col2" class="data row3 col2" >170</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow3_col3" class="data row3 col3" >16</td>
+                        <th id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5level0_row3" class="row_heading level0 row3" >24</th>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row3_col0" class="data row3 col0" >Friday 20 March 2020</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row3_col1" class="data row3 col1" >13480</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row3_col2" class="data row3 col2" >170</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row3_col3" class="data row3 col3" >16</td>
             </tr>
             <tr>
-                        <th id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bblevel0_row4" class="row_heading level0 row4" >25</th>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow4_col1" class="data row4 col1" >17598</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow4_col2" class="data row4 col2" >205</td>
-                        <td id="T_ed1bcf66_6826_11ea_9a76_c5d8f97fa8bbrow4_col3" class="data row4 col3" >17</td>
+                        <th id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5level0_row4" class="row_heading level0 row4" >25</th>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row4_col0" class="data row4 col0" >Saturday 21 March 2020</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row4_col1" class="data row4 col1" >17598</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row4_col2" class="data row4 col2" >205</td>
+                        <td id="T_3486c898_684e_11ea_a3c5_652fc68b5ec5row4_col3" class="data row4 col3" >17</td>
             </tr>
     </tbody></table>
 
