@@ -9,6 +9,10 @@ The latest report can be found in different formats here:
 - pdf https://jmoldon.github.io/coronavirus_analysis/cvid_report.pdf
 
 # Some sample plots
+### Response comparison China vs the rest
+
+![](plots/most_deaths_evolution.png)
+![](plots/most_confirmed_evolution.png)
 
 ### Individual countries
 ![](plots/Spain.png)
@@ -16,10 +20,6 @@ The latest report can be found in different formats here:
 ![](plots/FranceFrance.png)
 ![](plots/Germany.png)
 
-### Response comparison China vs the rest
-
-![](plots/most_deaths_evolution.png)
-![](plots/most_confirmed_evolution.png)
 
 # Changelog
 
@@ -29,6 +29,7 @@ The latest report can be found in different formats here:
 - Included USA as aggregated country
 - Included Poland
 - bound_threshold parameter to manually disable confidence intervals
+- Add global plots of evolution of most affected countries over time
 
 2020-03-16 
 - Better determination of exponential curve.

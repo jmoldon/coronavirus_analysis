@@ -861,7 +861,7 @@ I use the combined data for all the states combined
 These plots show the importance of rapid response and efficient control measures of infected people in China. Except for Hubei region, where the expansion of the virus was unexpected, the other regions have a very reduced number of Deaths in total. The other countries, especially in Europe, even with a month for preparation, shows very high infection and death rates.
 
 
-### Deaths
+### Confirmed Cases
 
 
 
@@ -878,11 +878,43 @@ These plots show the importance of rapid response and efficient control measures
 
 # Comparison of different countries, with a manual time delay to align them
 
+
+![png](cvid_report_files/cvid_report_34_0.png)
+
+
 ## Early onset: China regions
 
 Most of the regions have almost completed the cycle and active cases are disappearing. Note that China Hubei (the original area) has a large number of confirmed cases (70000), but the other regions have very low number of cases, with number around 1200-500 or even less.
 
+
+![png](cvid_report_files/cvid_report_36_0.png)
+
+
+
+![png](cvid_report_files/cvid_report_36_1.png)
+
+
+
+![png](cvid_report_files/cvid_report_36_2.png)
+
+
+
+![png](cvid_report_files/cvid_report_36_3.png)
+
+
 ## Other countries in Asia
 
 South Korea has a remarkable recovery rate, with many cases and a reduced number of deaths. Japan growth is moderate, much smaller than in European countries. Iran is showing hints of flattening, although it is curious that the number of recoveries has significantly slowed down while the number of deaths still follow a very exponential trend.
+
+
+
+![png](cvid_report_files/cvid_report_38_0.png)
+
+
+
+![png](cvid_report_files/cvid_report_38_1.png)
+
+
+
+![png](cvid_report_files/cvid_report_38_2.png)
 
