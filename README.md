@@ -1,18 +1,16 @@
 # Analyis of the evolution of covid-19 cases with time
 
-Analysis of recent coronavirus data for different countries and regions. Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/COVID-19 that is updated daily.
+Analysis of recent coronavirus data for different countries and regions.
 
+Main report is here: https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
 
-The latest report can be found in different formats here:
-
-- html https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
-- pdf https://jmoldon.github.io/coronavirus_analysis/cvid_report.pdf
+Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/COVID-19 that is updated daily.
 
 # Some sample plots
 ### Response comparison China vs the rest
 
 ![](plots/most_deaths_evolution.png)
-![](plots/most_confirmed_evolution.png)
+![](plots/most_cases_evolution.png)
 
 ### Individual countries
 ![](plots/Spain.png)
