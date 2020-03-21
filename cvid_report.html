@@ -13077,7 +13077,16 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Analysis-of-recent-coronavirus-data-for-different-countries-and-regions">Analysis of recent coronavirus data for different countries and regions<a class="anchor-link" href="#Analysis-of-recent-coronavirus-data-for-different-countries-and-regions">&#182;</a></h1>
+<h1 id="Analysis-of-recent-coronavirus-data-for-different-countries-and-regions">Analysis of recent coronavirus data for different countries and regions<a class="anchor-link" href="#Analysis-of-recent-coronavirus-data-for-different-countries-and-regions">&#182;</a></h1><h3 id="Table-of-contents">Table of contents<a class="anchor-link" href="#Table-of-contents">&#182;</a></h3><p><a href="#General-statistics">General Statistics</a><br>
+<a href="#List-of-most-affected-countries">List of most affected countries</a><br>
+<a href="#Global-situation">Global situation</a><br>
+<a href="#Evolution-of-cases">Evolution of cases</a><br>
+<a href="#Europe">Europe</a><br>
+<a href="#United-States">United States</a><br>
+<a href="#Comparison-of-different-countries">Comparison of different countries</a><br>
+<a href="#Early-onset:-China-regions">Early onset: China regions</a>
+<a href="#Other-countries-in-Asia">Other countries in Asia</a></p>
+
 </div>
 </div>
 </div>
@@ -13093,24 +13102,44 @@ div#notebook {
 
 
 <div class="output_markdown rendered_html output_subarea ">
-<h2 id="Updated-on-Saturday-21-March-2020">Updated on Saturday 21 March 2020<a class="anchor-link" href="#Updated-on-Saturday-21-March-2020">&#182;</a></h2>
+<h4 id="Updated-on-Saturday-21-March-2020">Updated on Saturday 21 March 2020<a class="anchor-link" href="#Updated-on-Saturday-21-March-2020">&#182;</a></h4>
 </div>
 
 </div>
 
-</div>
+<div class="output_area">
+
+
+<div class="output_markdown rendered_html output_subarea ">
+<p>Author: Javier Moldon</p>
+
 </div>
 
 </div>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Author: Javier Moldon<br>
-More info in <a href="https://github.com/jmoldon/coronavirus_analysis">https://github.com/jmoldon/coronavirus_analysis</a><br>
-link to this report: <a href="https://jmoldon.github.io/coronavirus_analysis/cvid_report.html">https://jmoldon.github.io/coronavirus_analysis/cvid_report.html</a></p>
+
+<div class="output_area">
+
+
+<div class="output_markdown rendered_html output_subarea ">
+<p>More info in <a href="https://github.com/jmoldon/coronavirus_analysis">https://github.com/jmoldon/coronavirus_analysis</a></p>
+
+</div>
+
+</div>
+
+<div class="output_area">
+
+
+<div class="output_markdown rendered_html output_subarea ">
+<p>link to this report: <a href="https://jmoldon.github.io/coronavirus_analysis/cvid_report.html">https://jmoldon.github.io/coronavirus_analysis/cvid_report.html</a></p>
+
+</div>
+
+</div>
 
 </div>
 </div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 
@@ -13125,22 +13154,6 @@ link to this report: <a href="https://jmoldon.github.io/coronavirus_analysis/cvi
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>curl -o time_series_19-covid-Confirmed.csv https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv
-curl -o time_series_19-covid-Deaths.csv https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv
-curl -o time_series_19-covid-Recovered.csv https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 
@@ -13154,7 +13167,7 @@ curl -o time_series_19-covid-Recovered.csv https://raw.githubusercontent.com/CSS
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="List-of-most-affected-countries-(sorted-by-number-of-deaths)">List of most affected countries (sorted by number of deaths)<a class="anchor-link" href="#List-of-most-affected-countries-(sorted-by-number-of-deaths)">&#182;</a></h2>
+<h2 id="List-of-most-affected-countries">List of most affected countries<a class="anchor-link" href="#List-of-most-affected-countries">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -13353,7 +13366,7 @@ curl -o time_series_19-covid-Recovered.csv https://raw.githubusercontent.com/CSS
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="List-of-most-affected-countries/provinces-(sorted-by-number-of-deaths)">List of most affected countries/provinces (sorted by number of deaths)<a class="anchor-link" href="#List-of-most-affected-countries/provinces-(sorted-by-number-of-deaths)">&#182;</a></h2>
+<h2 id="List-of-most-affected-countries/provinces">List of most affected countries/provinces<a class="anchor-link" href="#List-of-most-affected-countries/provinces">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -13645,7 +13658,7 @@ curl -o time_series_19-covid-Recovered.csv https://raw.githubusercontent.com/CSS
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Evolution-of-cases-(Confirmed,-Deaths,-Active-and-Recovery)-per-country">Evolution of cases (Confirmed, Deaths, Active and Recovery) per country<a class="anchor-link" href="#Evolution-of-cases-(Confirmed,-Deaths,-Active-and-Recovery)-per-country">&#182;</a></h1><p>All plots have the same information. Left: log scale, right: linear scale. Bottom-right: is a zoom to show the correct scale for deaths. The straight line is a fit to a logistic growth when possible. If the fit does not converge (low number of points in early stages) a simple exponential is used. The dashed line is a prediction based on the fit.</p>
+<h1 id="Evolution-of-cases">Evolution of cases<a class="anchor-link" href="#Evolution-of-cases">&#182;</a></h1><p>All plots have the same information. Left: log scale, right: linear scale. Bottom-right: is a zoom to show the correct scale for deaths. The straight line is a fit to a logistic growth when possible. If the fit does not converge (low number of points in early stages) a simple exponential is used. The dashed line is a prediction based on the fit.</p>
 
 </div>
 </div>
@@ -14847,7 +14860,7 @@ curl -o time_series_19-covid-Recovered.csv https://raw.githubusercontent.com/CSS
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Comparison-of-different-countries,-with-a-manual-time-delay-to-align-them">Comparison of different countries, with a manual time delay to align them<a class="anchor-link" href="#Comparison-of-different-countries,-with-a-manual-time-delay-to-align-them">&#182;</a></h1>
+<h1 id="Comparison-of-different-countries">Comparison of different countries<a class="anchor-link" href="#Comparison-of-different-countries">&#182;</a></h1>
 </div>
 </div>
 </div>
