@@ -2,9 +2,9 @@
 
 Analysis of recent coronavirus data for different countries and regions.
 
-Main report is here: https://jmoldon.github.io/coronavirus_analysis/cvid_report.html
+Main report is here: [https://jmoldon.github.io/coronavirus_analysis/cvid_report.html](https://jmoldon.github.io/coronavirus_analysis/cvid_report.html)
 
-Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/COVID-19 that is updated daily.
+Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) that is updated daily.
 
 # Some sample plots
 ### Response comparison China vs the rest
