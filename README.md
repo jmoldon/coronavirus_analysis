@@ -21,6 +21,10 @@ Data comes from Johns Hopkins University at https://github.com/CSSEGISandData/CO
 
 # Changelog
 
+2020-03-21
+- Major refactor of some functions
+- Now death rate (per day) is plotted 
+
 2020-03-17
 - Mayor refactoring and new functions. 
 - Now the report displays predicted number of cases for the next 5 days
