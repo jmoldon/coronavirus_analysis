@@ -17,9 +17,15 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 ![](plots/Italy.png)
 ![](plots/FranceFrance.png)
 ![](plots/Germany.png)
+![](plots/ChinaHubei.png)
 
 
 # Changelog
+
+2020-03-22
+- Add stripes to show rate of doubling cases every 2 days
+- Fix bug with case differences in the tables
+- Added USA per State in the global summary
 
 2020-03-21
 - Major refactor of some functions
