@@ -22,6 +22,9 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 # Changelog
 
+2020-03-23
+- Add increments to all predictions
+
 2020-03-22
 - Add stripes to show rate of doubling cases every 2 days
 - Fix bug with case differences in the tables
