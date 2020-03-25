@@ -24,6 +24,7 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 2020-03-25
 - Added prediction to the number of deaths per day plot
+- Changed zorder of Active plots to be lower
 
 2020-03-24
 - Have to change the source of data because JHU has changed the format unconsistently and have removed the Recovered data
