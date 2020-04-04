@@ -14,6 +14,7 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 ### Individual countries
 ![](plots/Spain.png)
+![](plots/comunidades_autonomas.png)
 ![](plots/Italy.png)
 ![](plots/FranceFrance.png)
 ![](plots/Germany.png)
@@ -21,6 +22,8 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 
 # Changelog
+2020-04-04
+- Add plots for Spain by Comunidades Autónomas
 
 2020-03-25
 - Added prediction to the number of deaths per day plot
