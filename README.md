@@ -11,17 +11,25 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 ![](plots/most_deaths_evolution.png)
 ![](plots/most_cases_evolution.png)
+![](plots/deaths_per_day.png)
 
 ### Individual countries
 ![](plots/Spain.png)
 ![](plots/comunidades_autonomas.png)
 ![](plots/Italy.png)
-![](plots/FranceFrance.png)
+![]("plots/United States.png")
+![]("plots/United Kingdom.png")
+![](plots/France.png)
 ![](plots/Germany.png)
-![](plots/ChinaHubei.png)
+![](plots/China.png)
 
 
 # Changelog
+2020-04-11
+- Add plot of deaths per day for 12 countries combined
+- Fix date tick labels to be one per week (on Mondays)
+- More clear date tick label format
+
 2020-04-04
 - Add plots for Spain by Comunidades Autónomas
 
