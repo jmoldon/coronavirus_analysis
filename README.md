@@ -25,6 +25,9 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 
 # Changelog
+2020-05-08
+- Fix bug related with how to read user-defined initial guess of parameters
+
 2020-05-07
 - New function to fit. Now it can be pure exponential, logistic or double logistic (two contatenated logistics to account for changes in the propagation rate)
 - The new option has more free parameters, so it is more sensitive to bad data (like large jumps) and initial conditions.
