@@ -25,6 +25,9 @@ Data comes from [Johns Hopkins University](https://github.com/CSSEGISandData/COV
 
 
 # Changelog
+2020-05-16
+- Need to change the source database to https://github.com/datasets/covid-19 due to a mismatch with the previous database
+
 2020-05-08
 - Fix bug related with how to read user-defined initial guess of parameters
 
